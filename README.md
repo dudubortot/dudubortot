@@ -5,4 +5,5 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Curiosidade: Eu memorizei 80 dígitos de Pi
 
-![Snake animation](https://github.com/dudubortot/dudubortot)
+![Snake animation](https://github.com/dudubortot/dudubortot/blob/output/github-contribution-grid-snake.svg)
+

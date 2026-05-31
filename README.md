@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Me chamo Eduardo e estudo informática no CEFET-MG. Gosto de jogar videogames, assistir animes e filmes e ler no meu tempo livre.
 
 <!--
 **dudubortot/dudubortot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

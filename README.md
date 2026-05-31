@@ -7,6 +7,14 @@ Me chamo Eduardo Bortot, tenho 16 anos e sou de Minas Gerais. Atualmente, estou 
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://imgs.search.brave.com/hlJLlUrLwzhpgfcIGN6vE9eNlJsA4TAPtoEGQNUY0e4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzE4L0NfUHJvZ3Jh/bW1pbmdfTGFuZ3Vh/Z2Uuc3Zn" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -44,6 +52,22 @@ Me chamo Eduardo Bortot, tenho 16 anos e sou de Minas Gerais. Atualmente, estou 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+
+<br/>
+<br/>
+
+---
+
+### 🌱 Aprendendo
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://imgs.search.brave.com/dgCnq05b3vAUckHWE4ePcBu2dQmkMr0-fvaw5CM8VtM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWphdmEtaWNvbi1z/dmctZG93bmxvYWQt/cG5nLTIyNTk5Ny5w/bmc_Zj13ZWJwJnc9/MTI4" 
 />
 <img 
     align="left" 
